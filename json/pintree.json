@@ -132,8 +132,8 @@
             "type": "link",
             "addDate": 1684464924000,
             "title": "Element Plus",
-            "icon": "https://logo.clearbit.com/element-plus.gitee.io",
-            "url": "https://element-plus.gitee.io/zh-CN/component/button.html"
+            "icon": "https://logo.clearbit.com/element-plus.org",
+            "url": "https://element-plus.org/zh-CN/component/overview.html"
           },
           {
             "type": "link",
@@ -193,10 +193,31 @@
           },
           {
             "type": "link",
+            "addDate": 1724772553410,
+            "title": "Fantastic-startkit | 一款简单好用的 Vue3 项目启动套件",
+            "icon": "https://logo.clearbit.com/hurui.me",
+            "url": "https://hurui.me/fantastic-startkit/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724920663589,
+            "title": "Geeker-Admin | 一款简单易用的中后台模版",
+            "icon": "https://logo.clearbit.com/docs.spicyboy.cn",
+            "url": "https://docs.spicyboy.cn/"
+          },
+          {
+            "type": "link",
             "addDate": 1716628012751,
             "title": "Fantastic-admin | 一款 Vue 中后台管理系统框架",
             "icon": "https://logo.clearbit.com/fantastic-admin.github.io",
             "url": "https://fantastic-admin.github.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724772499439,
+            "title": "Fantastic-mobile | 开箱即用的移动端 H5 框架",
+            "icon": "https://logo.clearbit.com/fantastic-mobile.hurui.me",
+            "url": "https://fantastic-mobile.hurui.me/"
           },
           {
             "type": "folder",
@@ -307,8 +328,8 @@
             "type": "link",
             "addDate": 1702199144052,
             "title": "影视森林",
-            "icon": "https://logo.clearbit.com/549.tv",
-            "url": "https://549.tv/"
+            "icon": "https://logo.clearbit.com/549.fr",
+            "url": "https://549.fr/"
           },
           {
             "type": "link",
@@ -361,20 +382,6 @@
           },
           {
             "type": "link",
-            "addDate": 1714994878459,
-            "title": "萌鸣动漫",
-            "icon": "https://logo.clearbit.com/ciyuanb.top",
-            "url": "http://ciyuanb.top/"
-          },
-          {
-            "type": "link",
-            "addDate": 1717640257675,
-            "title": "小咪影视",
-            "icon": "https://logo.clearbit.com/tv.loufubao.com",
-            "url": "https://tv.loufubao.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1719107494719,
             "title": "找资源",
             "icon": "https://logo.clearbit.com/51bt.life",
@@ -407,6 +414,55 @@
             "title": "MacKed - mac软件下载",
             "icon": "https://logo.clearbit.com/macked.app",
             "url": "https://macked.app/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723813285178,
+            "title": "LIBVIO",
+            "icon": "https://logo.clearbit.com/www.libvio.link",
+            "url": "https://www.libvio.link/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723813300875,
+            "title": "麦田影院",
+            "icon": "https://logo.clearbit.com/www.mtyy1.com",
+            "url": "https://www.mtyy1.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1723863458126,
+            "title": "番薯动漫",
+            "icon": "https://logo.clearbit.com/www.fsdm02.com",
+            "url": "https://www.fsdm02.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726103997643,
+            "title": "找电影",
+            "icon": "https://logo.clearbit.com/leisidianying.com",
+            "url": "https://leisidianying.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726104042905,
+            "title": "和图书，电子书",
+            "icon": "https://logo.clearbit.com/www.hetushu.com",
+            "url": "https://www.hetushu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726921247406,
+            "title": "GoingMac游戏工坊",
+            "icon": "https://logo.clearbit.com/www.goingmac.com",
+            "url": "https://www.goingmac.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727616293799,
+            "title": "MacWk - 精品mac软件下载",
+            "icon": "https://logo.clearbit.com/macwk.cn",
+            "url": "https://macwk.cn/"
           }
         ]
       },
@@ -496,8 +552,8 @@
             "type": "link",
             "addDate": 1715650697815,
             "title": "合租平台",
-            "icon": "https://logo.clearbit.com/nf.video",
-            "url": "https://nf.video/yinhe/web/?sharedId=89816"
+            "icon": "https://logo.clearbit.com/nf.vide",
+            "url": "https://nf.vide/"
           },
           {
             "type": "link",
@@ -526,13 +582,6 @@
             "title": "HelloGitHub",
             "icon": "https://logo.clearbit.com/hellogithub.com",
             "url": "https://hellogithub.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1717724421643,
-            "title": "轻工具导航",
-            "icon": "https://logo.clearbit.com/qinggongju.com",
-            "url": "https://qinggongju.com/"
           },
           {
             "type": "link",
@@ -767,8 +816,8 @@
                 "type": "link",
                 "addDate": 1719566579930,
                 "title": "AI 设计稿",
-                "icon": "https://logo.clearbit.com/www.motiff.com",
-                "url": "https://www.motiff.com/"
+                "icon": "https://logo.clearbit.com/www.motiff.cn",
+                "url": "https://www.motiff.cn/"
               },
               {
                 "type": "link",
@@ -783,6 +832,34 @@
                 "title": "免费GPT",
                 "icon": "https://logo.clearbit.com/chat.tinycms.xyz",
                 "url": "https://chat.tinycms.xyz:3002/#/chat"
+              },
+              {
+                "type": "link",
+                "addDate": 1723472472808,
+                "title": "通义千问",
+                "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+                "url": "https://tongyi.aliyun.com/qianwen/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723736279062,
+                "title": "阿水AI6.0",
+                "icon": "https://logo.clearbit.com/ai.ashuiai.com",
+                "url": "https://ai.ashuiai.com/home"
+              },
+              {
+                "type": "link",
+                "addDate": 1723736394903,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/main/alltoolsdetail"
+              },
+              {
+                "type": "link",
+                "addDate": 1723820348427,
+                "title": "AI工具集官网 | 1000+ AI工具集合，国内外AI工具集导航大全",
+                "icon": "https://logo.clearbit.com/ai-bot.cn",
+                "url": "https://ai-bot.cn/"
               }
             ]
           },
@@ -1616,13 +1693,6 @@
                 "title": "微心百源",
                 "icon": "https://logo.clearbit.com/gov.microcardio.com",
                 "url": "https://gov.microcardio.com/html/qrsign/index.html#/sign-apply"
-              },
-              {
-                "type": "link",
-                "addDate": 1721741915574,
-                "title": "CloudFisher",
-                "icon": "https://logo.clearbit.com/cloudfisher.net",
-                "url": "https://cloudfisher.net/web/#/ticket"
               }
             ]
           },
@@ -1639,6 +1709,55 @@
                 "url": "http://175.178.33.84:8081/doc.html#/home"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726368314403,
+        "title": "padavan",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1726368778253,
+            "title": "padavan后台",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726368341589,
+            "title": "aria",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1/ariaweb/index.html#"
+          },
+          {
+            "type": "link",
+            "addDate": 1726563066163,
+            "title": "AdGuard Home",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1:3000/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726663152637,
+            "title": "Z_Blog - adminadmin",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1:91/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727275359845,
+            "title": "AList",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1:5244/"
+          },
+          {
+            "type": "link",
+            "addDate": 1728565528899,
+            "title": "File Browser",
+            "icon": "https://logo.clearbit.com/192.168.2.1",
+            "url": "http://192.168.2.1:888/files"
           }
         ]
       }
